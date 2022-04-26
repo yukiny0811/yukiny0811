@@ -11,3 +11,6 @@
 Keio SFC B3   
 Wakita Lab (Data Visualization and Computer Simulation)   
 Majoring in Fluid Animation   
+
+## Social
+https://qiita.com/yukiny
