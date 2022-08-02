@@ -22,3 +22,6 @@ Keio SFC B3
 ## Social
 https://qiita.com/yukiny
 
+## Others
+https://github.com/yuruyuru-learning
+https://github.com/orgs/yukiny-backups
