@@ -7,6 +7,8 @@
 
 ## Profile
 Keio SFC B3   
+Wakita Lab & Aoyama Lab    
+Life is Tech! Mentor (iOS, Web Design, Web service, Minecraft)
 
 ## History
 2020-04~ Keio University    
@@ -14,8 +16,8 @@ Keio SFC B3
 2020-09~ 2021-01 Masui Lab (User Interface)    
 2021-04~ 2021-08 Aqua Lab (Advancing Quantum Architecture)    
 2021-04~ Wakita Lab (Data Visualization and Computer Simulation)      
-2022-04~ Aoyama Lab (Neuro Science)    
-2022-04~ Kanazawa Lab (Math)    
+2022-04~ Aoyama Lab (Brain Informatics)    
+2022-04~ 2022-08 Kanazawa Lab (Math)    
 
 ## Social
 https://qiita.com/yukiny
