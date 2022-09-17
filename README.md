@@ -12,12 +12,9 @@ Life is Tech! Mentor (iOS, Web Design, Web service, Minecraft)
 
 ## History
 2020-04~ Keio University    
-2020-07~ Life is Tech! Mentor    
-2020-09~ 2021-01 Masui Lab (User Interface)    
-2021-04~ 2021-08 Aqua Lab (Advancing Quantum Architecture)    
+2020-07~ Life is Tech! Mentor       
 2021-04~ Wakita Lab (Data Visualization and Computer Simulation)      
 2022-04~ Aoyama Lab (Brain Informatics)    
-2022-04~ 2022-08 Kanazawa Lab (Math)    
 
 ## Social
 https://qiita.com/yukiny
