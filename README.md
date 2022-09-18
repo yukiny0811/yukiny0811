@@ -7,14 +7,9 @@
 
 ## Profile
 Keio SFC B3   
-Wakita Lab & Aoyama Lab    
-Life is Tech! Mentor (iOS, Web Design, Web service, Minecraft)
-
-## History
-2020-04~ Keio University    
-2020-07~ Life is Tech! Mentor       
-2021-04~ Wakita Lab (Data Visualization and Computer Simulation)      
-2022-04~ Aoyama Lab (Brain Informatics)    
+Wakita Lab (Brain Informatics)    
+Aoyama Lab (Data Visualization and Computer Simulation)    
+Life is Tech! Mentor (iOS, Web Design, Web service, Minecraft)   
 
 ## Social
 https://qiita.com/yukiny
