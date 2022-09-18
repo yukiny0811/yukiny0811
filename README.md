@@ -7,8 +7,8 @@
 
 ## Profile
 Keio SFC B3   
-Wakita Lab (Brain Informatics)    
-Aoyama Lab (Data Visualization and Computer Simulation)    
+Aoyama Lab (Brain Informatics)    
+Wakita Lab (Data Visualization and Computer Simulation)    
 Life is Tech! Mentor (iOS, Web Design, Web service, Minecraft)   
 
 ## Social
