@@ -9,7 +9,6 @@
 Keio SFC B3   
 Aoyama Lab (Brain Informatics)    
 Wakita Lab (Data Visualization and Computer Simulation)    
-Life is Tech! Mentor (iOS, Web Design, Web service, Minecraft)   
 
 ## Social
 https://qiita.com/yukiny
