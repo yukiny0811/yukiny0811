@@ -1,6 +1,6 @@
 ### Yuki Kuwashima
 
-iOS / macOS / visionOS Apps / 3D Graphics Programming
+iOS / visionOS Apps / 3D Graphics Programming
 
 All Made with Swift+Metal
 
